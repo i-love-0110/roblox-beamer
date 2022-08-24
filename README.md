@@ -2,7 +2,7 @@
 
 
 
-this is a website that i created that beams roblox accounts using a roblox api powershell exploit
+this is a website that i created that beams roblox accounts using a roblox api powershell exploit (you have to be on pc)
 
 its very easy and might get patched soon
 
